@@ -1,4 +1,4 @@
-## Many-Core Engine for Perl - Images
+## Many-Core Engine for Perl - Assets
 
 This is a place holder for images describing MCE. The images are placed
 here separately to not bloat other MCE-related repositories.
